@@ -1,12 +1,15 @@
+import { Header } from "./components/Header";
 
 function App() {
   return (
-    <div className="text-primary">
-      HOLA MUNDO
-    </div>
+    <div>
+      <Header/>
+      
+      </div>
+    
   );
 
-  
+
 }
 
 export default App;
